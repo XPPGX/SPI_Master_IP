@@ -13,8 +13,8 @@
     - Log text
     <br> ![1](./文字結果.jpg)
 
-    - a part of wave graph
+    - a part of waveform graph
     <br> ![1](./0x06的波型.jpg)
 
-    - whole wave graph
+    - whole waveform graph
     <br> ![1](./全部的波型.jpg)
