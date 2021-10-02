@@ -3,7 +3,7 @@
 
 - ## Goal 
     - Creating a SPI Master IP
-    - Writing some datas in following address to EEPROM
+    - Writing some datas to following address in EEPROM
     <br> 1. Address 0 : data => 0x78
     <br> 2. Address 1 : data => 0x9A
     <br> 3. Address 2 : data => 0xBC
